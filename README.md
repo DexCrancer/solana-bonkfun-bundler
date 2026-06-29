@@ -75,7 +75,7 @@ Choose between four modes:
 
 ## 📞 Contact  
 For custom bundlers, Solana bots, or integrations:  
-**Telegram:** [RRR](https://t.me/microRustyme)
+**Telegram:** [soulcrancerdev](https://t.me/soulcrancerdev)
 
 ---
 
